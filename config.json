@@ -1,5 +1,8 @@
 {
   "port" : "3000",
-  "channelAccessToken": "YOUR_CHANNEL_ACCESS_TOKEN",
-  "channelSecret": "YOUR_CHANNEL_SECRET"
+  "channelAccessToken": "WlQNbfs8x+d/xDegwEvWazTS3IP5FNYBXZ9TzJ6hIIDiiqJwPVvopF9hX2lWzEQsXlf8weLvZ0fJCJBMHXPW9ara0JcLyNrbFAYk1wj6FNCQOf8Mxrv85y9e6puswaoomTYV26O1y2otHSj1HT+ztQdB04t89/1O/w1cDnyilFU=
+",
+  "channelSecret": "42743d78e855dceed8f016963d85c563
+"
+  run npm start
 }
